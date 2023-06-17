@@ -1,0 +1,184 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Thor",
+      "image": "Thor.jpg",
+      "genre": "Action, Adenture, comedy",
+      "director": "Taika Waititi",
+      "stars": "Chris Hemsworth, Tom Hiddleston, Cate Blanchett, Mark Ruffalo",
+      "plot": "Thor is imprisoned on the planet Sakaar, and must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    },
+    {
+      "id": 2,
+      "title": "Wonder woman",
+      "genre": "Action, Adenture, Fantasy",
+      "director": "Patty Jenkins",
+      "stars": "Gal Gadot, Chris Pine, Robin Wright, Lucy Davis",
+      "plot": "When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.",
+      "image": "WonderWoman.jpg",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    },
+    {
+      "id": 3,
+      "title": "Logan",
+      "genre": "Action, Drama, Sci-Fi",
+      "director": "James Mangold ",
+      "stars": "Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook",
+      "plot": "In the near future, a weary Logan cares for an ailing Professor X, somewhere on the Mexican border. However, Logan's attempts to hide from the world, and his legacy, are upended when a young mutant arrives, pursued by dark forces.",
+      "image": "Logan.jpg",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    },
+    {
+      "id": 4,
+      "title": "Despicable me 3",
+      "genre": "Action, Drama, Sci-Fi",
+      "director": "James Mangold ",
+      "stars": "Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook",
+      "plot": "Gru meets his long-lost charming, cheerful, and more successful twin brother Dru who wants to team up with him for one last criminal heist.",
+      "image": "DespicableMe3.jpg",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    },
+    {
+      "id": 5,
+      "title": "Star war",
+      "genre": "Action, Drama, Sci-Fi",
+      "director": "James Mangold ",
+      "stars": "Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook",
+      "plot": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares for battle with the First Order.",
+      "image": "StarWars.jpg",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    },
+    {
+      "id": 6,
+      "title": "Pitch Perfect 3",
+      "genre": "Animation, Action, Adventure",
+      "director": "Trish Sie",
+      "stars": "Anna Kendrick, Rebel Wilson, Brittany Snow, Anna Camp",
+      "plot": "Following their win at the world championship, the now separated Bellas reunite for one last singing competition at an overseas USO tour, but face a group who uses both instruments and voices.",
+      "image": "PitchPerfect3.jpg",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    },
+    {
+      "id": 7,
+      "title": "Opération casse-noisette 2",
+      "genre": "Animation, Action, Adventure",
+      "director": "Cal Brunker",
+      "stars": "Will Arnett, Maya Rudolph, Bobby Cannavale, Bobby Moynihan",
+      "plot": "Following the events of the first film, Surly and his friends must stop Oakton City's mayor from destroying their home to make way for a dysfunctional amusement park.",
+      "image": "OpCasse2.jpg",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    }
+  ],
+  "transactions": [
+    {
+      "movieId": 4,
+      "price": 200,
+      "date": "Test Date",
+      "place": "Test Place",
+      "seats": 1,
+      "id": 1
+    },
+    {
+      "movieId": 2,
+      "price": 300,
+      "date": "Test Date Two",
+      "place": "Test Place Two",
+      "seats": 2,
+      "id": 2
+    },
+    {
+      "movieId": 7,
+      "price": 600,
+      "date": "1 May",
+      "place": "Inox, Inorbit Mall, Malad",
+      "seats": "3",
+      "id": 3
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "description": "sdlakdld dasdkalsdjlas eqweqweqwe sadalsdk reqweqwe oipoipip adasdsa cxcvvxcvxcv eweqweqweqe",
+      "location": "test location one",
+      "date": "3 May"
+    },
+    {
+      "id": 2,
+      "description": "dadasdas popoipoi ewqeqweqwe lklkjlj nmbnmbnmbwerwrwrew vxcvcvxvxvc sdafdgretsdsdvc rwerwerewr",
+      "location": "test location two",
+      "date": "4 May"
+    },
+    {
+      "id": 3,
+      "description": "qeqweqwe fasdfsdf weqweqwe sasdasdasd qeqweqweqwe bxvnvbnncvncvn brhtbefergcsedf iioyukyyukyukyk",
+      "location": "test location three",
+      "date": "5 May"
+    },
+    {
+      "id": 1,
+      "description": "fsfwfwerwer dasdkalsdjwerlas eqweqwerwerwrwrweqwe sadalerwerwersdk reqweqwe oipwerewrweroipip adasdsa cxcvvxcvxcv eweqweqweqe",
+      "location": "test location four",
+      "date": "6 May"
+    }
+  ],
+  "latestmovies":[
+    {
+      "_id":111,
+      "name":"Black Panther",
+      "language":"English",
+      "type":"Action",
+      "imageUrl":"https://tse3.mm.bing.net/th?id=OIP.tnzR4SNgzUnPCIB1fFa16QHaLH&pid=Api&P=0&h=180"
+    },
+    {
+      "_id":222,
+      "name":"Coco",
+      "language":"English",
+      "type":"Animation",
+      "imageUrl":"https://tse1.mm.bing.net/th?id=OIP.brscI_s6OQaWnma7fToXXgHaFy&pid=Api&P=0&h=180"
+    },
+    {
+      "_id":333,
+      "name":"Death wish",
+      "language":"English",
+      "type":"Thriller",
+      "imageUrl":"https://tse1.mm.bing.net/th?id=OIP.bwvCpq9ixeF802UueI7tOgHaK-&pid=Api&P=0&h=180"
+    }
+  ]
+}
